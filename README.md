@@ -2,13 +2,13 @@
   <img src= "https://media.giphy.com/media/kbMGdyKwdLTe6ENh1i/giphy.gif"></img>
   <div id="badges">
   <a href="your-linkedin-URL">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></img>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"></img>
   </a>
   <a href="your-whatsapp-URL">
-  <img src="https://img.shields.io/badge/Whatsapp-brightgreen?logo=whatsapp&logoColor=white&style=for-the-badge"></img>
+  <img src="https://img.shields.io/badge/Whatsapp-brightgreen?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Whatsapp Badge"></img>
   </a>
   <a href="your-telegram-URL">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"></img>
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"></img>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=your-github-Annastasiia0&style=flat-square&color=blue" alt=""/>
