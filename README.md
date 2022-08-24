@@ -30,7 +30,7 @@
 
 - :massage: In my free time, I sexpanding my technology stack.
 
-- :pager: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/anastasiia-seliverstova-88b77323b/)
+- :pager: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Anastazzz0)
 - ---
 :hammer_and_wrench: Languages and Tools:
 <div>
