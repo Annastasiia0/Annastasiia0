@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src= "https://media.giphy.com/media/kbMGdyKwdLTe6ENh1i/giphy.gif"></img>
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/anastasiia-seliverstova-88b77323b/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"></img>
   </a>
-  <a href="your-whatsapp-URL">
+  <a href="https://wa.me/79995310258">
   <img src="https://img.shields.io/badge/Whatsapp-brightgreen?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Whatsapp Badge"></img>
   </a>
-  <a href="your-telegram-URL">
+  <a href="https://t.me/Anastazzz0">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"></img>
   </a>
 </div>
