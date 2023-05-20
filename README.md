@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/anastasiia-seliverstova-88b77323b/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"></img>
   </a>
-  <a href="https://wa.me/79995310258">
+  <a href="https://wa.me/79996680545">
   <img src="https://img.shields.io/badge/Whatsapp-brightgreen?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Whatsapp Badge"></img>
   </a>
   <a href="https://t.me/Anastazzz0">
